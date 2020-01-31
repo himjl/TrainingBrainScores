@@ -1,0 +1,11 @@
+README.md
+setup.py
+TrainingBrainScores.egg-info/PKG-INFO
+TrainingBrainScores.egg-info/SOURCES.txt
+TrainingBrainScores.egg-info/dependency_links.txt
+TrainingBrainScores.egg-info/top_level.txt
+tbs/__init__.py
+tbs/download_weights.py
+tbs/load_model.py
+tbs/resnet_model.py
+tbs/tfkeras_wrapper_for_brainscore.py
